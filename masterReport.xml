@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+<listeners>
+<listener class-name = "utilities.ExtentReportManager"/>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+     <class name="testCases.TC_001_AccountRegistrationTest"/>  
+        <!--  <class name="testCases.TC_002_LoginTest"/> 
+           <class name="testCases.TC_003_LoginDDT"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!-- 
+question - how can we genarate report using Extentreportmanager
+
+Answer - To generate report using ExtentReportManager , we make use of ITestListner Interface provided by testNg .
+		- we create a separate class (for Example - EXtentReportmanager.java) and implements the ITestListner Interface .
+		
+		- ITestListner provided several callback methods such as 
+		1- onStart() - called before the testExecution begins.
+		2-onFinish() - called after all test have finished .
+		3- onTestSuccess() -  triggered when a test case passes.
+		4- onTestFailure()- triggered when a test case failed .
+		5- onTestSkipped() - triggered when a test is skipped .
+		
+		
+ -->

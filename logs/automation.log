@@ -1,0 +1,21 @@
+2025-11-10 18:22:05 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
+2025-11-10 18:22:05 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
+2025-11-10 18:22:06 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
+2025-11-10 18:22:06 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
+2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
+2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
+2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
+2025-11-10 18:55:15 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
+2025-11-10 18:55:15 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
+2025-11-10 18:55:16 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
+2025-11-10 18:55:16 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
+2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
+2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
+2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
+2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
+2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
+2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
+2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
+2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
+2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
+2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
