@@ -1,21 +1,16 @@
-2025-11-10 18:22:05 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
-2025-11-10 18:22:05 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
-2025-11-10 18:22:06 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
-2025-11-10 18:22:06 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
-2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
-2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
-2025-11-10 18:22:07 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
-2025-11-10 18:55:15 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
-2025-11-10 18:55:15 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
-2025-11-10 18:55:16 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
-2025-11-10 18:55:16 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
-2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
-2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
-2025-11-10 18:55:17 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
-2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
-2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
-2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
-2025-11-10 19:05:50 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
-2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
-2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
-2025-11-10 19:05:52 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
+2025-11-14 20:17:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\tanay\eclipse-workspace\OpenCartV123\master.xml
+
+2025-11-14 20:17:20 INFO  TC_001_AccountRegistrationTest:15 - ********* String Account registraion Test ***********
+2025-11-14 20:17:20 INFO  TC_001_AccountRegistrationTest:21 - ******* Clicked on My Account  ********
+2025-11-14 20:17:21 INFO  TC_001_AccountRegistrationTest:23 - ******* Clicked on My Register Account ********
+2025-11-14 20:17:21 INFO  TC_001_AccountRegistrationTest:26 - ******* providing customer details **********
+2025-11-14 20:17:23 INFO  TC_001_AccountRegistrationTest:39 - ******* validation confirmation message  ********
+2025-11-14 20:17:23 INFO  TC_001_AccountRegistrationTest:43 - ************ Test passed **********
+2025-11-14 20:17:23 INFO  TC_001_AccountRegistrationTest:52 - ******* finshed test case*********
+2025-11-14 20:17:31 INFO  TC_002_LoginTest:15 - *********starting TC_002_loginTest********
+2025-11-14 20:17:31 INFO  TC_002_LoginTest:21 - ********* clicking on my account Link**********
+2025-11-14 20:17:32 INFO  TC_002_LoginTest:24 - ********* clicking on login Link**********
+2025-11-14 20:17:32 INFO  TC_002_LoginTest:29 - ************ providing credential******
+2025-11-14 20:17:32 INFO  TC_002_LoginTest:34 - ********* clicking on login Link**********
+2025-11-14 20:17:33 INFO  TC_002_LoginTest:45 - *************Finshed login test*********

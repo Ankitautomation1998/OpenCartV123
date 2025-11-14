@@ -16,6 +16,9 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath="//div[@class='list-group']//a[normalize-space()='Logout']")
 	WebElement lnkLogout;
 	
+	@FindBy(xpath="(//h2[normalize-space()='My Account'])[1]")
+	WebElement msgHeadingAfterLogin;
+	
 	public boolean isMyAccountPageExists()
 	{
 		try
@@ -24,6 +27,17 @@ public class MyAccountPage extends BasePage {
 		}catch(Exception e)
 		{
 			return (false);
+		}
+	}
+	
+	public boolean isMyAccountExist()
+	{
+		try
+		{
+			return(msgHeadingAfterLogin.isDisplayed());
+		}catch(Exception e)
+		{
+			return(false);
 		}
 	}
 	
